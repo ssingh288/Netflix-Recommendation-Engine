@@ -23,20 +23,44 @@ The end goal was to build a model which can recommend movies to users based on t
 ## Data Preparation
 -  Understanding the data.
 
-![Data Exploration](C:/Users/Kshatriya/Github/DataExploration.png)
+![Data Exploration](https://github.com/ssingh288/R_Projects/blob/master/DataExploration.PNG)
+
+![Data Exploration](https://github.com/ssingh288/R_Projects/blob/master/DataExploration2.PNG)
+
+![Data Exploration](https://github.com/ssingh288/R_Projects/blob/master/DataExploration3.PNG)
+
+![Data Exploration](https://github.com/ssingh288/R_Projects/blob/master/DataExploration4.PNG)
 
 -  Check for correlations.
 -  Check for multicollinearity.
 -  Data Cleaning
 -  Feature Engineering/Feature scaling
 -  Preparing the final Dataset
+
+![Data Exploration](https://github.com/ssingh288/R_Projects/blob/master/QualitativeData.PNG)
+
+![Data Exploration](https://github.com/ssingh288/R_Projects/blob/master/QuantitativeData.PNG)
+
    
  ## Created my own recommendation algorithm
--  R_Programming
+-  My Algorithm in R_Programming
+
+![Data Exploration](https://github.com/ssingh288/R_Projects/blob/master/MyAlgorithm.PNG)
+
+![Data Exploration](https://github.com/ssingh288/R_Projects/blob/master/Programming.PNG)
+
+![Data Exploration](https://github.com/ssingh288/R_Projects/blob/master/Programming2.PNG)
+
   
  ## Testing/Iteration
 -  Testing the results
+
+![Data Exploration](https://github.com/ssingh288/R_Projects/blob/master/Results.PNG)
+
 -  Fine tuning the results
+
+![Data Exploration](https://github.com/ssingh288/R_Projects/blob/master/Results2.PNG)
+
 -  Review session
    
  ## Presentation.
